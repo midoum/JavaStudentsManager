@@ -1,0 +1,4 @@
+MPISI1;ahmed;Ahmed;a@gmail.com;Teboulba;MPISI;75698321;52146398;1
+MPISI1;lll;lll;lll;lll;MPISI;lll;lll;1
+MPISI2;ali;mohamed;khaled@gmail.com;Sousse;MPISI;72145639;23658947;2
+MPISI2;ali;a;a@gmail.com;Monastir;MPISI;75236;5236655;2
